@@ -25,7 +25,7 @@ Our goal is to optimize these models for accessibility and resilience in low-ban
 **Pakistan Institute of Engineering and Applied Sciences (PIEAS)** Nilore, Islamabad, Pakistan.  
 *Department of Computer and Information Sciences (DCIS)*
 
-> **Note on Project Verification:** > Detailed project registration and progress tracking are maintained on the official PIEAS internal portal ([cloud.cipma.edu.pk](https://cloud.cipma.edu.pk/)). Access to the internal portal is restricted to university faculty and staff. This GitHub page serves as the public-facing verification for external research collaborations and dataset access requests.
+
 
 ---
 
